@@ -1,7 +1,7 @@
 <?php 
 class DB
 {
-    public $dsn = "mysql:host=localhost;dbname=pdo_data";
+    public $dsn = "mysql:host=localhost;dbname=w";
     public $username = "root";
     public $pass = "";
     private $pdo;
